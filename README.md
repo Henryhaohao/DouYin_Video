@@ -14,7 +14,7 @@
 该项目为[抖音APP](https://www.douyin.com/)视频下载
 - 项目介绍:通过传入抖音作者的UserID爬取其作者的喜欢(别人的视频)或者发布(自己上传的视频)
 - 爬虫文件:Spiders目录下的douyin_video.py
-- 运行方法:传入抖音作者的UserID即可开始下载视频,下载的视频将存放在项目目录下的douyin_video文件夹中
+- 运行方法:传入抖音作者的UserID(此参数位置参考下方的截图)即可开始下载视频,下载的视频将存放在项目目录下的douyin_video文件夹中
 - 抖音作者URL链接示例: https://www.douyin.com/share/user/63692754272/ (哈哈:smile:这是我的抖音号~)
 ## :dolphin:运行环境
 Version: Python3
