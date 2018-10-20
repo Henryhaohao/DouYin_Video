@@ -31,6 +31,8 @@ pip3 install -r requirements.txt
 
 > - **下载完成**<br><br>
 ![enter image description here](Pic/video.png)
-
+## :dolphin:**总结**
+> **最后，如果你觉得这个项目不错或者对你有帮助，给个Star呗，也算是对我学习路上的一种鼓励！<br>
+ 哈哈哈，感谢大家！笔芯~**:cupid::cupid:
 
 
